@@ -30,14 +30,14 @@ These are the best known scores, achieved using IntelliJ:
 
 | Hole | Best score | Notes |
 |------|------------|-------|
-| 1    | 3          |       |
-| 2    | 7          |       |
-| 3    | 5          |       |
-| 4    | 6          |       |
-| 5    | 10         |       |
-| 6    | 7          |       |
+| 1    | 7          |       |
+| 2    | 6          |       |
+| 3    | 13         |       |
+| 4    | 16         |       |
+| 5    | 12         |       |
+| 6    | 4          |       |
  
-<b>Course Record: 38</b>
+<b>Course Record: 58</b>
 
 ## Acknowledgements:
 This exercise was developed with Ivan (@s4nchez). :)
