@@ -22,9 +22,10 @@ Goals:
 - Turn Pair into Money
 
 Steps:
-- Change signature of Pair (change var name + type + make public) (breaks compilation) - 1
-- Safe delete A - 2
-- Safe delete B - 2 (fix compilation error)
+- add explicit type args to the Pair on line 16 -1 
+- Change signature of Pair (change var name + type + make public) - 1
+- Safe delete A - 1
+- Safe delete B - 1
 - Rename Pair to Money - 1
 
 
