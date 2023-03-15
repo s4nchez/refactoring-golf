@@ -15,7 +15,7 @@ Steps:
 - Invert 'if' condition in return clause - 1
 - Organise imports - 0
 
-## Hole 2 - Par 6
+## Hole 2 - Par 5
 
 Goals:
 - Remove generics
@@ -99,4 +99,4 @@ Steps:
 - Inline `pairs` - 1
 
 
-## Total: 58
+## Total: 57
